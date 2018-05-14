@@ -1,5 +1,5 @@
 import MySQLdb
-from scrapy.utils.project import get_project_settings #导入seetings配置
+from scrapy.utils.project import get_project_settings #导入settings配置
 
 class DBHelper():
     

@@ -36,7 +36,7 @@ class WebcrawlerScrapyPipeline(object):
                                           host='127.0.0.1',
                                           db='crawlpicturesdb',
                                           user='root',
-                                          passwd='123456',
+                                          passwd='1234',
                                           cursorclass=MySQLdb.cursors.DictCursor,
                                           charset='utf8',
                                           use_unicode=False)'''        
